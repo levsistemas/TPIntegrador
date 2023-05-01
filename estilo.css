@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.primero{
+    background-color: rgb(48, 47, 47);
+    height: 100px;
+    font-size: 1.5rem;
+}
+.primeraparte{
+    width: 37%;
+    padding: 20px;
+}
+.codoacodo{
+    width: 25%;
+}
+.confbsas{
+    color: white;
+}
+.primero-labels{
+    background-color: rgb(48, 47, 47);
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+.buytickets{
+    color: green;
+    font-size: 1.25em;
+}
+.labels1{
+    color: white;
+    font-size: 1.25em;
+}
+.labels{
+    color: grey;
+    font-size: 1.25em;
+}
+.fotoBA{
+    filter: brightness(50%);
+}
+.container1{
+    height: 600px;
+    padding:0;
+    margin:0;
+}
+.container1 img{
+    width: 100%;
+    height: 600px;
+    padding: 0;
+    margin: 0;
+}
+.descripcionfoto{
+    top: 40%;
+    right: 10%;
+    width: 30%;
+    position: absolute;
+    text-align: right;
+    color: white;
+}
+.labelsimple{
+    width: 100%;
+    font-size: 0.7rem;
+    top: 75%;
+    left: 5%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.fotoplaya{
+    width: 102%;
+}
+.honolulu{
+    width: 100%;
+}
+.playadescriptiva{
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+}
+.descripciondelaplaya{
+    width: 100%;
+    background-color: rgb(41, 35, 35);
+    padding: 25px;
+}
+h4{
+    color: white;
+}
+.parrafodeladescripcionplaya{
+    color: white;
+}
+#nombre{
+    width: 50%;
+    margin: 0px 20px 0px 0px;
+}
+#apellido{
+    width: 50%;
+    margin: 0px 0px 0px 20px;
+}
+#hablar{
+    width: 100%;
+    height: 100px;
+    margin: 15px 0px 0px 0px;
+    padding: 15px 0px 0px 10px;
+}
+.parrafoconviertete{
+    text-align: center;
+}
+.parrafoorador{
+    text-align: center;
+}
+.final{
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    color: white;
+    background-color: rgb(29, 29, 95);
+}
+.titulocharla{
+    color: grey;
+}
+.botonenviar{
+    background-color: rgb(109, 210, 8);
+    font-size: x-large;
+    border-style: none;
+}
+.titulares{
+    text-align: center;
+}
+.cuadroJavaScript{
+    font-weight: bold;
+}
+.cuadroReact{
+    font-weight: bold;
+    color: white;
+}
+.cuadroNegocios{
+    font-weight: bold;
+    color: white;
+}
+.cuadroStartups{
+    font-weight: bold;
+    color: white;
+}
